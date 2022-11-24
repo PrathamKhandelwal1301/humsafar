@@ -18,7 +18,7 @@ furthermore, we use the speech recognition to recognise the speaker speech and p
 2. A chat bot that can provide the young generation with the information about our traditional toys such as lattoos, gilli danda and what not.
 3. the chatbot does all this while providing the basic functionality of a chat bot.
 
-A .docx files of all the commands presently accepted by humsafar is provided in the repository. Kindly go through it to have a smooth experience humsafar
+A .docx files of all the keywords for toys presently accepted by humsafar is provided in the repository under the name of project humsafar.docx. Kindly go through it to have a smooth experience humsafar
 
 
 further improvisations that we are planning to bring to humsafar but cant rightnow due to tight deadline/lack of knowledge are:
