@@ -30,3 +30,15 @@ further improvisations that we are planning to bring to humsafar but cant rightn
 
 
 how we plan to do the above improvisations are a different task though as we lack knowledge to completely implement the above improvisations. We plan to expand our knowledge in the field of ML and AI and then implement the same knowledge to further improve our and yours only HUMSAFAR.
+
+
+
+
+
+PROJECT HUMSAFAR by team humsuffer consisting
+-Arnav Khanduja
+-Vasu Kapahi
+-Avi Parmar
+-Hemant Dubey
+-Pratham Khandelwal
+for the smart punjab hackathon
