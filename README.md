@@ -36,9 +36,9 @@ how we plan to do the above improvisations are a different task though as we lac
 
 
 PROJECT HUMSAFAR by team humsuffer consisting
--Arnav Khanduja
--Vasu Kapahi
--Avi Parmar
--Hemant Dubey
--Pratham Khandelwal
+1. Arnav Khanduja
+2. Vasu Kapahi
+3. Avi Parmar
+4. Hemant Dubey
+5. Pratham Khandelwal
 for the smart punjab hackathon
